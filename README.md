@@ -13,6 +13,6 @@ A simple Django-based music application that allows users to search for and play
 ## Tech Stack
 - **Backend:** Django
 - **Frontend:** HTML, CSS
-- **Database:** SQLite (default with Django)
+- **Database:** SQLite 
 - **Version Control:** Git
 - **IDE:** Visual Studio Code
